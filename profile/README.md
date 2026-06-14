@@ -2,7 +2,6 @@
   <img src="https://www.linkmes.com.cn/assets/img/banner.png" alt="AI源点" width="292"/>
 </p>
 
-<h1 align="center">AI源点</h1>
 <h3 align="center">从零开始，动手学会AI应用开发</h3>
 
 <p align="center">
